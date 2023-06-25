@@ -1,0 +1,22 @@
+    /* Sütis-édesség téma stílusok */
+    .light
+    {
+      background-color: white;
+      color: #333;
+	  background-image: url(https://sussvelem.cdn.shoprenter.hu/custom/sussvelem/image/cache/w600h400q80np1/Torta-kepek/macaron-talalva.jpg?v=null.1664276885);
+	  background-repeat: no-repeat;
+	  background-size:100%;
+	  background-attachment: fixed;
+
+	}
+    /* Sós-pogácsák téma stílusok */
+    .dark
+    {
+        background-color: #333;
+        color: #fff;
+		background-image: url(https://www.mindmegette.hu/images/369/Social/lead_Social_tepertos-pogacsa-recept.jpg);
+		background-repeat: no-repeat;
+		background-size:100%;
+		background-attachment: fixed;
+    }
+	
